@@ -1,8 +1,16 @@
 {
-  "name": "wxt-starter",
-  "description": "manifest.json description",
+  "name": "textlink",
+  "description": "A browser extension that generates a link based on the selected text.",
+  "author": "btea <2356281422@qq.com>",
+  "license": "MIT",
+  "keywords": [
+    "browser-extension",
+    "web-extension",
+    "select-text",
+    "text-link"
+  ],
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "packageManager": "pnpm@10.12.1",
   "scripts": {
